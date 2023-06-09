@@ -1,0 +1,40 @@
+Python supports different programming paradigms such as functional programming,
+ object-oriented programming (OOP), and procedural programming.
+OOP is an important concept in Python, and it involves thinking about programming problems
+in terms of objects.
+In the real world, everything can be considered an object, including cameras,
+laptops, employees, etc.
+Objects have attributes (data/properties) and behaviors (actions/methods).
+Attributes can be thought of as variables, and behaviors can be implemented as methods.
+In OOP, functions are referred to as methods.
+OOP is not just about syntax; it's a different way of thinking about problem-solving.
+Concepts related to OOP include classes, encapsulation, abstraction, polymorphism,inheritance etc.
+A class can be thought of as a blueprint or design for creating multiple instances (objects)
+of that class.
+The class defines the attributes and behaviors that the objects will have.
+Objects are instances of a class, and they can be created based on the class design.
+Class:
+A class is a blueprint or a template for creating objects. It defines the attributes (variables) and
+ behaviors (methods/functions) that objects of that class will have. It serves as a design or a model
+ for creating multiple objects with similar characteristics.
+
+In the context of the content, an example of a class is given using the name "Computer."
+The class is defined using the keyword "class" followed by the class name and a colon.
+Inside the class, attributes and methods are defined.
+
+Object:
+An object, on the other hand, is an instance of a class. It is a specific entity created based on
+ the blueprint provided by the class. Objects have their own unique state and behavior, but they
+ inherit the attributes and methods defined in the class. In the content, an object of the class
+ "Computer" is created using the variable name "comp1."
+
+To access the methods of a class, the object name is used followed by a dot operator and the method name.
+ For example, "comp1.config()" calls the "config" method of the "comp1" object.
+
+Overall, the class represents a general concept or type, while an object represents a specific instance
+ of that class. The class defines the structure and behavior, while objects are created based on that
+  structure and exhibit their own state and behavior.
+
+
+  #constructor and self
+  self is pointer which will directs to the object/reference
